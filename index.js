@@ -7,6 +7,7 @@ function multiply(c, d) {
 }
 console.log(multiply(12, 5))
 
+
 let firstName = 'Uloma';
 let lastName = 'Njionye';
 let track = 'Frontend Development';

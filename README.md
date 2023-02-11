@@ -13,7 +13,7 @@ In the same index.js file, create variables for your first name, last name, Stut
                 Answers
 1. Node
 2. Build full blown web or mobile applications, real-time networking applications, build interative web pages,for game development, build web servers and developing server applications
-3. 1997.
+3. 1997
 4. console.log()
 5. Backend development, Frontend development and Full-stack development.
 6. Statically typed programming languages are programming languages where the type checking is performed durimg compile-time as opposed to run-time and the types are associated with variables not values. Examples are C, C++, Java, Rust, Go, Scala
